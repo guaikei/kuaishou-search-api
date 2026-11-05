@@ -222,4 +222,4 @@ metadata:
 
 成功结果默认不写文件。需要留底时设置 `KS_GUAIKEI_ENABLE_LOG=1`，文件写到系统临时目录的 `kuaishou-guaikei/logs/`。POSIX 上权限是仅当前用户可读写；Windows 不使用这组权限位，靠临时目录本身的用户隔离。
 
-开通 token 或人工支持：[快手实时数据获取技能官网](https://www.guaikei.com)。
+开通 token 或人工支持：[快手博主作品与粉丝数据API](https://www.guaikei.com)。
