@@ -6,6 +6,11 @@ name: kuaishou-search-api
 description: "快手公开数据只读技能：关键词搜视频、博主作品与粉丝数据、视频评论，输出 JSON，不登录不发布。触发词：快手、Kuaishou、kwai、快手搜索、快手评论、快手博主。用户要查快手视频、评论、爆款选题、竞品监控、KOL 筛选或评论舆情时使用；抖音、小红书、B站、微博、公众号不要用本技能。"
 license: MIT
 version: 1.1.2
+display_name: "快手搜索API｜关键词搜索·博主作品·粉丝数据·视频评论"
+display_name_en: "Kuaishou Search API"
+description_zh: "快手公开数据只读接口：关键词搜索视频、博主作品与粉丝数据、视频评论，支持按点赞排序与最新发布筛选，挖掘爆款选题、监控竞品账号、筛选 KOL、分析评论舆情与市场趋势；按量单次最多 10000 条，包月搜索/作品/评论分别最多 30/50/60，全部以结构化 JSON 输出，不登录、不发布、不点赞、不评论，适用于内容选题、竞品监控、KOL 筛选、评论舆情与账号分析。"
+description_en: "Read-only Kuaishou public data API: keyword video search, creator posts and follower stats, and video comments, with sorting by likes and filtering by latest posts, for viral topic discovery, competitor account monitoring, KOL screening, comment sentiment and market-trend analysis; up to 10,000 records per request on pay-as-you-go, with monthly plan caps of 30 searches / 50 posts / 60 comments, all returned as structured JSON, with no login and no posting, liking or commenting; for content topic selection, competitor monitoring, KOL screening, comment sentiment and account analysis."
+author: "新郑市怪奇信息技术工作室"
 metadata:
   openclaw:
     emoji: "📷"
