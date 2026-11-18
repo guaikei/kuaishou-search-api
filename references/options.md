@@ -1,4 +1,4 @@
-# 快手搜索API (Kuaishou Search API) 完整选项参数说明
+# 快手洞察与竞品分析助手 完整选项参数说明
 
 命令在技能目录下执行。stdout 是一份 JSON 信封，字段见 `assets/*.schema.json`。非法枚举和越界数量会直接失败，不会改成默认值。
 
